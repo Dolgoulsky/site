@@ -1,0 +1,16 @@
+﻿body {font-family:Arial;}
+h1{
+  font-size: 32pt;
+  text-align: center;
+  font-family: Verdana;
+}
+p{
+  font-size: 14pt !important;
+  text-align: justify;
+ 
+}
+  .picture {text-align: center;}
+  .green {text-align:right;}
+  .picture img {width: 67%;}
+ 
+ 
